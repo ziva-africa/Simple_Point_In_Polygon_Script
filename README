@@ -1,1 +1,1 @@
-This is a simple R script to join health facilities in Southern Africa to their respective administrative units. For example, to find out which facilities fall into which municipal areas, districts and provinces. 
+This is a simple R script to join health facilities in Southern Africa to their respective administrative units – also know as a spatial join. For example, to find out which facilities fall into which municipal areas, districts and provinces. 
